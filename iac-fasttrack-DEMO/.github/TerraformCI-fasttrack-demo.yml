@@ -5,7 +5,7 @@ on:
     branches: 
       - main
     paths:
-      - "demo-folder/iac-fasttrack/terraform/**"
+      - "iac-fasttrack-DEMO/terraform/**"
   workflow_dispatch:
 
 permissions:

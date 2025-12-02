@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "demo-folder/iac-fasttrack-DEMO/terraform/**"
+      - "iac-fasttrack-DEMO/terraform/**"
   workflow_dispatch:
     inputs:
       plan_run_id:
